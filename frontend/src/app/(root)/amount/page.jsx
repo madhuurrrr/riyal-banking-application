@@ -10,7 +10,7 @@ const AmountPage = () => {
         <HeaderName/>
         <div className='card w-1/3 border py-5 rounded flex items-center justify-between px-3'>
           <div className='flex flex-col'>
-            <h1 className='text-2xl font-bold'>Add Amount</h1>
+            <h1 className='text-2xl font-bold text-[#002855]'>Add Amount</h1>
             <p> Total Amount : 150/-</p>
           </div>
           <AddAmountModal/>
